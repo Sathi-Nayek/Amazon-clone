@@ -1,2 +1,2 @@
 # Amazon-clone
-This is a mini project of amazon clone using only HTML and CSS. 
+This is a mini amazon-inspired web application project using  HTML and CSS. 
